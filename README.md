@@ -1,29 +1,25 @@
 # Привет! Я Разработчик ПО (Software Developer) 👋
 
-Здесь вы найдете информацию о моих навыках, проектах и технологиях, с которыми я работаю каждый день. Люблю писать чистый код и создавать удобные интерфейсы.
+Здесь вы найдете информацию о моих проектах и технологиях. Я специализируюсь на создании современных интерфейсов на React, а также пишу скрипты, утилиты и логику на различных языках программирования под самые разные задачи.
 
 ---
 
 ### 🛠️ Мой технологический стек
 
 #### 💻 Языки программирования & Скрипты
-<p align="left">
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="TypeScript" />
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="C#" />
-  <img src="https://shields.io" alt="Lua" />
-  <img src="https://shields.io" alt="PHP" />
-</p>
+![JavaScript](https://shields.io)
+![TypeScript](https://shields.io)
+![Python](https://shields.io)
+![C#](https://shields.io)
+![Lua](https://shields.io)
+![PHP](https://shields.io)
 
 #### 🌐 Фронтенд & Верстка
-<p align="left">
-  <img src="https://shields.io" alt="React" />
-  <img src="https://shields.io" alt="Vite" />
-  <img src="https://shields.io" alt="HTML5" />
-  <img src="https://shields.io" alt="CSS3" />
-  <img src="https://shields.io" alt="SCSS" />
-</p>
+![React](https://shields.io)
+![Vite](https://shields.io)
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+![Sass / SCSS](https://shields.io)
 
 ---
 
@@ -36,10 +32,8 @@
 
 ### 📊 Моя статистика GitHub
 
-<p align="center">
-  <img src="https://vercel.app" alt="GitHub Stats" height="180" />
-  <img src="https://vercel.app" alt="Top Languages" height="180" />
-</p>
+[! [GitHub Stats](https://shion.dev)](https://github.com)
+[! [Top Languages](https://shion.dev)](https://github.com)
 
 ---
 
